@@ -8,3 +8,12 @@ FILES
 
 Code is in html and pdf format. To view the html format, you will need to download the file to open. 
 Code is split into two files: 1) Hi-C processing in R, and 2) Network analysis in R. 
+
+DATA
+
+plasmid_ps_clustered_genomad_final.RDS == bacteria-plasmid association matrix and metadata stored as a phyloseq object
+cluster_membership_genomad.RDS == plasmid contig metadata
+phylophlan.tre.treefile == Phylogenetic tree of bacteria
+phylophlan_taxonomy_updated.csv == Taxonomy of bacteria 
+
+
