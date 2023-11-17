@@ -1,4 +1,4 @@
-# Plasmid-networks
+# Host-plasmid-networks
 
 Rmarkdown report for the analysis to go with the manuscript "Host-plasmid network structure in wastewater is linked to antimicrobial resistance genes " by Alice Risely, Thibault Stalder, Benno I. Simmons, Eva M. Top, Angus Buckling, and Dirk Sanders
 
